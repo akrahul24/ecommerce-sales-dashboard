@@ -6,7 +6,7 @@ An interactive Excel dashboard analyzing e-commerce sales performance, customer 
 This dashboard turns raw order-level e-commerce data into a clean, business-ready view for tracking performance and spotting trends at a glance.
 
 ## 📸 Dashboard Preview
-![dashboard Preview](dashboard.png) 
+![Dashboard Preview](Screenshot%202026-09-11%20175643.png) 
 ## 🎥 Walkthrough
 
 ## 📊 KPIs Tracked
